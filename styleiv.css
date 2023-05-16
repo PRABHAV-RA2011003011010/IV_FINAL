@@ -1,1 +1,40 @@
+h1,h2,h3{
+    color: rgb(19, 4, 84);
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(15, 178, 196);
+}
+.tableauPlaceholder{
+    
+     border-radius: 25px;
+     
+     position: relative;
+     margin:auto;
+    align-content: center;
+    align-self: center;
+    align-items: end;
+    text-align: center;
+    justify-content: center;
 
+
+}
+.pdf{
+    border-radius: 25px;
+     
+     position: relative;
+     
+    align-content: center;
+    align-self: center;
+    align-items: end;
+    text-align: center;
+    justify-content: center;
+    margin:auto;
+
+    
+
+}
